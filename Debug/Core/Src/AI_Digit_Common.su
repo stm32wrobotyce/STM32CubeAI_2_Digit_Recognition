@@ -1,0 +1,8 @@
+AI_Digit_Common.c:34:6:AI_Digit_set_next_state	0	static
+AI_Digit_Common.c:44:6:Virtual_LED_ON	8	static
+AI_Digit_Common.c:55:6:Virtual_LED_OFF	8	static
+AI_Digit_Common.c:66:6:Virtual_LED_OFF_All	8	static
+AI_Digit_Common.c:74:6:scale_nearest_neighbour_algorithm	40	static
+AI_Digit_Common.c:95:6:LCD_and_TouchScreen_Init	8	static
+AI_Digit_Common.c:106:6:LCD_Display_Init_Screen	16	static
+AI_Digit_Common.c:16:6:AI_Digit_Process	8	static
